@@ -1,0 +1,12 @@
+primeira parte fazer a mao,cartas, e embaralhamento
+
+segunda parte regras do jogo prioridades sobre a carta e carta aleatoria nao poder virar na mao dos jogadores
+
+terceira parte contagem de pontos e truco
+
+quarta jogo entre os jogadores
+
+quinta parte bot para jogar contra o player
+
+sexta learning do bot
+
